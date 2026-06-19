@@ -61,20 +61,6 @@ We work with businesses across Nigeria, the UK, US, and UAE — on projects and 
 
 ---
 
-## Quick start
-
-```bash
-# Clone
-git clone https://github.com/ejicode/Ejicode.git
-cd Ejicode
-
-# Or connect an existing repo
-git remote add origin https://github.com/ejicode/Ejicode.git
-git branch -M main
-git push -u origin main
-```
-
----
 
 <div align="center">
   <sub>Built with care by the Ejicode team · Abuja, Nigeria 🇳🇬</sub>
