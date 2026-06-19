@@ -1,67 +1,126 @@
 <div align="center">
 
-<img src="./5886539433119518547.jpg" alt="Ejicode logo" width="160">
+<img src="./5886539433119518547.jpg" alt="Ejicode" width="140" style="border-radius: 16px;" />
+
+<br/>
+<br/>
 
 # Ejicode
 
-**Independent digital product studio — Abuja, Nigeria.**
+<p><em>We don't just write code — we engineer the infrastructure of ambition.</em></p>
 
-We engineer digital systems designed to perform, grow, and last.  
-Empathy and engineering, inseparable.
+[![Website](https://img.shields.io/badge/ejicode.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ejicode.com)
+[![Clutch](https://img.shields.io/badge/Clutch_⭐_Top_Agency-FF3D2E?style=for-the-badge)](https://clutch.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/ejicode)
+[![X](https://img.shields.io/badge/Follow_the_Build-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ejicode)
 
-[ejicode.com](https://www.ejicode.com) · [Clutch](https://clutch.co) · [LinkedIn](https://linkedin.com/company/ejicode) · [Instagram](https://instagram.com/victornmesommaejike)
+<br/>
+
+> **Independent digital product studio · Abuja, Nigeria 🇳🇬**  
+> Serving clients across Nigeria · UK · US · UAE
 
 </div>
 
 ---
 
-## What we do
+<br/>
 
-We don't just write code — we build digital solutions that help businesses grow, scale, and succeed.
+## ✦ What Ejicode is
 
-| Domain | Stack |
+Born from a belief that the best digital experiences happen when **empathy and engineering are inseparable** — Ejicode is a studio that builds systems designed to perform, grow, and outlast the hype.
+
+We are not a vendor. We are a technical partner.  
+We don't ship and disappear — we build and stand behind it.
+
+<br/>
+
+## ✦ What we build
+
+```
+Backend & APIs          →  Go (Golang) · REST · gRPC · Microservices
+Full-stack Web          →  React · Vue · Next.js · TypeScript
+Mobile Applications     →  Android · iOS · Cross-platform
+AI & Automation         →  LLM integrations · Agents · Workflow automation
+Cloud & DevOps          →  Docker · CI/CD · AWS · GCP · Infrastructure as Code
+UI/UX Design            →  Figma · Design systems · Prototyping
+CRM & Business Tools    →  Custom CRM · Client portals · Internal tooling
+```
+
+<br/>
+
+## ✦ Who we serve
+
+| Industry | What we solve |
 |---|---|
-| Backend & APIs | Go (Golang), REST, gRPC |
-| Full-stack Web | React, Vue, Next.js |
-| Mobile Applications | Android, iOS (cross-platform) |
-| AI & Automation | LLM integrations, workflow automation |
-| Cloud & DevOps | Docker, CI/CD, AWS / GCP |
-| UI/UX Design | Figma, design systems |
-| CRM & Business Tools | Custom CRM, client portals |
+| 💳 **FinTech** | Payments, compliance tooling, financial dashboards |
+| 🏥 **Healthcare** | Patient management, clinical data systems |
+| 🏘️ **Real Estate** | Property platforms, lead management, portfolio tools |
+| 🚀 **Startups** | MVPs, rapid prototyping, technical co-founder support |
+| 📚 **Education** | e-Learning platforms, structured curriculum systems |
 
----
+<br/>
 
-## Industries we serve
-
-- **FinTech** — payments, compliance tooling, financial dashboards
-- **Healthcare** — patient management, data systems
-- **Real Estate** — property platforms, lead management
-- **Startups** — MVPs, rapid prototyping, technical co-founder support
-- **Education** — e.g. [Ejischool](https://github.com/ejicode), our open-source learning platform
-
----
-
-## Open source
+## ✦ Building in public
 
 ### Ejischool
-An open-source learning platform by the Ejicode Community — focused on helping people truly understand programming through structured, project-based learning.
+> *Day 1 / 260 — and counting.*
 
-> Day 1 / 260 of building in public. Follow the journey on [X](https://x.com/ejicode).
+An open-source learning platform by the Ejicode Community.  
+Built on the conviction that most people aren't bad at programming — they were just never taught it right.
+
+Ejischool focuses on **structured, project-based learning** that builds genuine understanding, not just syntax familiarity.
+
+→ Follow the daily build on [X / Twitter](https://x.com/ejicode)  
+→ Contribute on [GitHub](https://github.com/ejicode)
+
+<br/>
+
+## ✦ Our work speaks on Clutch
+
+> *"Ejicode's impressive technical ability and thoughtful approach to web applications set them apart."*  
+> — Clutch Review, 2026
+
+⭐ Rated among the **Top Design & Development Agencies in Nigeria — 2026**
+
+<br/>
+
+## ✦ Work with us
+
+Whether you're a startup with an idea or a company that needs a reliable engineering team — we want to hear from you.
+
+```
+📍  Life Camp, Palm City Street, Gwarinpa, Abuja — FCT, Nigeria
+🌐  https://www.ejicode.com
+📧  hello@ejicode.com
+```
+
+<br/>
+
+## ✦ Quick start
+
+```bash
+# Clone this repo
+git clone https://github.com/ejicode/Ejicode.git
+cd Ejicode
+
+# Or connect an existing repository
+git remote add origin https://github.com/ejicode/Ejicode.git
+git branch -M main
+git push -u origin main
+```
+
+<br/>
 
 ---
-
-## Work with us
-
-We work with businesses across Nigeria, the UK, US, and UAE — on projects and ongoing retainers.
-
-- 🌐 [ejicode.com](https://www.ejicode.com)
-- 📍 Life Camp, Palm City Street, Gwarinpa, Abuja — FCT, Nigeria
-- 📧 hello@ejicode.com
-- ⭐ Reviewed on [Clutch](https://clutch.co) — Top Design & Development Agency, Nigeria 2026
-
----
-
 
 <div align="center">
-  <sub>Built with care by the Ejicode team · Abuja, Nigeria 🇳🇬</sub>
+
+<br/>
+
+**Ejicode** · Engineering the future, from Abuja 🇳🇬
+
+<sub>We build for the long run — not just the launch.</sub>
+
+<br/>
+
 </div>
